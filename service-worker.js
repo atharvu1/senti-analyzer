@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/senti-analyzer/precache-manifest.9542c9223defe6bf56e9b33790e1d8c4.js"
+  "/senti-analyzer/precache-manifest.8258cdf4fe6b50ab4aba52078bd2371e.js"
 );
 
 self.addEventListener('message', (event) => {

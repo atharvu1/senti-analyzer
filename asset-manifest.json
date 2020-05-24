@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/senti-analyzer/static/css/main.2d9ab9da.chunk.css",
-    "main.js": "/senti-analyzer/static/js/main.a0977674.chunk.js",
-    "main.js.map": "/senti-analyzer/static/js/main.a0977674.chunk.js.map",
+    "main.js": "/senti-analyzer/static/js/main.d278783f.chunk.js",
+    "main.js.map": "/senti-analyzer/static/js/main.d278783f.chunk.js.map",
     "runtime-main.js": "/senti-analyzer/static/js/runtime-main.9d5d40b9.js",
     "runtime-main.js.map": "/senti-analyzer/static/js/runtime-main.9d5d40b9.js.map",
     "static/js/2.99ad8c47.chunk.js": "/senti-analyzer/static/js/2.99ad8c47.chunk.js",
     "static/js/2.99ad8c47.chunk.js.map": "/senti-analyzer/static/js/2.99ad8c47.chunk.js.map",
     "index.html": "/senti-analyzer/index.html",
-    "precache-manifest.9542c9223defe6bf56e9b33790e1d8c4.js": "/senti-analyzer/precache-manifest.9542c9223defe6bf56e9b33790e1d8c4.js",
+    "precache-manifest.8258cdf4fe6b50ab4aba52078bd2371e.js": "/senti-analyzer/precache-manifest.8258cdf4fe6b50ab4aba52078bd2371e.js",
     "service-worker.js": "/senti-analyzer/service-worker.js",
     "static/css/main.2d9ab9da.chunk.css.map": "/senti-analyzer/static/css/main.2d9ab9da.chunk.css.map",
     "static/js/2.99ad8c47.chunk.js.LICENSE.txt": "/senti-analyzer/static/js/2.99ad8c47.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.9d5d40b9.js",
     "static/js/2.99ad8c47.chunk.js",
     "static/css/main.2d9ab9da.chunk.css",
-    "static/js/main.a0977674.chunk.js"
+    "static/js/main.d278783f.chunk.js"
   ]
 }

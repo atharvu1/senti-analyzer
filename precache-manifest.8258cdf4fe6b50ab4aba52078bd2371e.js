@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8af5b0eeb9875c9636313075f54a86ae",
+    "revision": "1a552ad293aeaa702888bfcd3af92a13",
     "url": "/senti-analyzer/index.html"
   },
   {
-    "revision": "817e140877dbda7afc15",
+    "revision": "b50e7b4185095a5e8d5e",
     "url": "/senti-analyzer/static/css/main.2d9ab9da.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/senti-analyzer/static/js/2.99ad8c47.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "817e140877dbda7afc15",
-    "url": "/senti-analyzer/static/js/main.a0977674.chunk.js"
+    "revision": "b50e7b4185095a5e8d5e",
+    "url": "/senti-analyzer/static/js/main.d278783f.chunk.js"
   },
   {
     "revision": "a100fa93c3342d004c97",
