@@ -1,28 +1,29 @@
 import React, { useState } from "react";
+import Axios from 'axios';
 import TextField from "@material-ui/core/TextField";
 import Divider from "@material-ui/core/Divider";
 import Button from "@material-ui/core/Button";
 import logo from "./assets/logo.svg";
 import "./App.css";
 import { CircularProgress } from "@material-ui/core";
-
+// text-analysis-q8z3c4sf9.now.sh
 function App() {
   const [text, setText] = useState("");
   const [pending, setPending] = useState(false);
   const [op, setOp] = useState("Enter Text to Analyse Sentiment");
 
-  const handleSubmit = () => {
+  const handleSubmit = async () => {
     setPending(true);
-    fetch("https://text-analysis-api-eta.now.sh/get_sentiment", {
-      method: 'POST',
-      body: `${text}`
-      
-    }).then((response) => response.text())
-      .then((data) => {
-        console.log(data)
-        setOp(data);
-        setPending(false);
-      });
+    const res = await Axios.post("https://text-analysis.now.sh/get_sentiment", { text }, {
+      headers: {
+        'Access-Control-Allow-Origin': '*',
+        'Accept': 'application/json',
+        'Content-Type': 'application/json',
+      }
+    });
+    console.log(res)
+    setOp(res.data);
+    setPending(false);
   };
 
   return (
