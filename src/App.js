@@ -13,7 +13,7 @@ function App() {
 
   const handleSubmit = () => {
     setPending(true);
-    fetch("http://127.0.0.1:5000/get_sentiment", {
+    fetch("https://text-analysis-api-eta.now.sh/get_sentiment", {
       method: 'POST',
       body: `${text}`
       
