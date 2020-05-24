@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Senti-Analyzer/static/css/main.aa41cee9.chunk.css",
+    "main.js": "/Senti-Analyzer/static/js/main.4ef4a6d0.chunk.js",
+    "main.js.map": "/Senti-Analyzer/static/js/main.4ef4a6d0.chunk.js.map",
+    "runtime-main.js": "/Senti-Analyzer/static/js/runtime-main.3f8ccc4e.js",
+    "runtime-main.js.map": "/Senti-Analyzer/static/js/runtime-main.3f8ccc4e.js.map",
+    "static/js/2.99ad8c47.chunk.js": "/Senti-Analyzer/static/js/2.99ad8c47.chunk.js",
+    "static/js/2.99ad8c47.chunk.js.map": "/Senti-Analyzer/static/js/2.99ad8c47.chunk.js.map",
+    "index.html": "/Senti-Analyzer/index.html",
+    "precache-manifest.792e683f7a92fe3ef4aa28e87036c40d.js": "/Senti-Analyzer/precache-manifest.792e683f7a92fe3ef4aa28e87036c40d.js",
+    "service-worker.js": "/Senti-Analyzer/service-worker.js",
+    "static/css/main.aa41cee9.chunk.css.map": "/Senti-Analyzer/static/css/main.aa41cee9.chunk.css.map",
+    "static/js/2.99ad8c47.chunk.js.LICENSE.txt": "/Senti-Analyzer/static/js/2.99ad8c47.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Senti-Analyzer/static/media/bkg.0b945542.svg",
+    "static/media/logo.svg": "/Senti-Analyzer/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f8ccc4e.js",
+    "static/js/2.99ad8c47.chunk.js",
+    "static/css/main.aa41cee9.chunk.css",
+    "static/js/main.4ef4a6d0.chunk.js"
+  ]
+}
