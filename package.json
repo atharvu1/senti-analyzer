@@ -2,7 +2,7 @@
   "name": "senti-analyzer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://yuribenjamin.github.io/Senti-Analyzer",
+  "homepage": "http://atharvu1.github.io/senti-analyzer",
   "dependencies": {
     "@material-ui/core": "^4.9.14",
     "react": "^16.13.1",
