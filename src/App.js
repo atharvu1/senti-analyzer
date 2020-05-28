@@ -7,6 +7,7 @@ import logo from "./assets/logo.svg";
 import "./App.css";
 import { CircularProgress } from "@material-ui/core";
 // text-analysis-q8z3c4sf9.now.sh
+// text-analysis.now.sh
 function App() {
   const [text, setText] = useState("");
   const [pending, setPending] = useState(false);
@@ -14,7 +15,7 @@ function App() {
 
   const handleSubmit = async () => {
     setPending(true);
-    const res = await Axios.post("https://text-analysis.now.sh/get_sentiment", { text }, {
+    const res = await Axios.post("http://127.0.0.1:5000/get_sentiment", { text }, {
       headers: {
         'Access-Control-Allow-Origin': '*',
         'Accept': 'application/json',
