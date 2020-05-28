@@ -1,11 +1,26 @@
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+#### Make sure you have node.js installed in your workspace.
+[Download node.js](https://nodejs.org/en/download/) 
+
+## Initializing 
+In the project directory, you can run:
+### `npm i`
+Installs all the packages needed to run the application.
 
 ## Available Scripts
 
 In the project directory, you can run:
+### `npm start`
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
 
 ### `yarn start`
-
+Alternate for `npm start`
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
