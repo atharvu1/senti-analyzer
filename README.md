@@ -1,4 +1,4 @@
-
+# senti-analyzer
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 #### Make sure you have node.js installed in your workspace.
@@ -81,4 +81,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# senti-analyzer
+
